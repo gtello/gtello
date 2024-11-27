@@ -23,6 +23,9 @@ I'm an **IT Specialist** and **Cybersecurity Enthusiast** from Ecuador, pursuing
 - **IT Specialist** with expertise in deploying secure cloud solutions, automation, and AI-driven applications.  
 - **Junior Software Developer** with experience in app development and API integration.
 
+## 🏆 Certifications & Badges
+![gtz's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gtz.png)
+
 ## 📫 Connect with Me
 - **Email:** [gabrieltello10@hotmail.com](mailto:gabrieltello10@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/gtellozambrano](https://www.linkedin.com/in/gtellozambrano)
