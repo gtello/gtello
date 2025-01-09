@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gabriel Tello Zambrano
 
-I'm an **IT Specialist** and **Cybersecurity Enthusiast** from Ecuador, pursuing a Bachelor of Engineering in Cybersecurity at the **Universidad Internacional del Ecuador (UIDE)**. I bring a unique blend of IT systems, software development, and cybersecurity skills to the table, with experience in enhancing business operations, developing security-first applications, and advancing automation efforts.
+I'm an **IT Specialist** and **Cybersecurity Professional** from Ecuador, pursuing a Bachelor of Engineering in Cybersecurity at the **Universidad Internacional del Ecuador (UIDE)**. I bring a unique blend of IT systems, software development, and cybersecurity skills to the table, with experience in enhancing business operations, developing security-first applications, and advancing automation efforts.
 
 ## 👨‍💻 Skills and Expertise
 - **Programming Languages:** Kotlin, Java, JavaScript, Python, SQL, Bash
