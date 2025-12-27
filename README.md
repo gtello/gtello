@@ -1,33 +1,66 @@
-# 👋 Hello, I'm Gabriel Tello Zambrano
+# Gabriel Tello
 
-I'm an **IT Specialist** and **Cybersecurity Professional** from Ecuador, pursuing a Bachelor of Engineering in Cybersecurity at the **Universidad Internacional del Ecuador (UIDE)**. I bring a unique blend of IT systems, software development, and cybersecurity skills to the table, with experience in enhancing business operations, developing security-first applications, and advancing automation efforts.
+Cybersecurity-focused technologist that likes building secure, automated, and intelligent systems across cloud, software, and infrastructure layers. Operating at the intersection of security engineering, cloud platforms, and automation.
 
-## 👨‍💻 Skills and Expertise
-- **Programming Languages:** Kotlin, Java, JavaScript, Python, SQL, Bash
-- **Cybersecurity:** Pentesting, Vulnerability Assessment, MITRE ATT&CK, OSINT
-- **Development Frameworks:** Android Studio, React Native, WordPress, Power Platform
-- **Cloud Services:** AWS, Azure, Office 365 Defender, Zoho CRM
-- **Security Tools:** Kali Linux, Metasploit, Nmap, Wireshark, Burp Suite, Microsoft Sentinel
-- **DevOps & Automation:** Docker, Terraform, GitHub Actions, Make.com, Zapier
-- **Compliance:** HIPAA, ISO 27001, PCI DSS
+Focused on eliminating manual security gaps by embedding controls directly into infrastructure, pipelines, and applications. I leverage and implement AI-driven tooling where it makes sense, improving detection, response, and decision-making at scale without adding unnecessary complexity.
 
-## 🛠️ Current Projects
-- **Cybersecurity Blog** - Sharing insights on pentesting, cybersecurity trends, and best practices.
-- **Portfolio & CV Page** - Built with Hugo, showcasing my work in IT and cybersecurity.
+## 🔐 Core Focus Areas
 
-## 🧑‍🎓 Education
-- **Bachelor of Engineering in Cybersecurity**  
-  _Universidad Internacional del Ecuador (UIDE)_
+### Cybersecurity Engineering
+- Penetration testing and vulnerability assessment  
+- Threat modeling and adversary mapping (MITRE ATT&CK)  
+- SIEM, threat hunting, log analysis, and system hardening  
+- Identity & access management, risk assessment
+- Security playbooks for incident response, alert triage, and containment    
 
-## 💼 Professional Experience
-- **IT Specialist** with expertise in deploying secure cloud solutions, automation, and AI-driven applications.  
-- **Junior Software Developer** with experience in app development and API integration.
+### Cloud & DevSecOps
+- Secure cloud architectures on **AWS** and **Azure**  
+- Cloud security posture management and workload protection  
+- Infrastructure as Code (Terraform) and containerized environments  
+- CI/CD pipelines with security controls baked in  
 
-## 🏆 Certifications & Badges
-![gtz's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gtz.png)
+### AI & Intelligent Automation
+- AI integration for security operations and business workflows  
+- OpenAI API and GenAI-powered automation  
+- Event-driven automation with serverless and low-code platforms  
+- Security-aware process automation to reduce human error  
 
-## 📫 Connect with Me
-- **Email:** [gabrieltello10@hotmail.com](mailto:gabrieltello10@hotmail.com)
-- **LinkedIn:** [linkedin.com/in/gtellozambrano](https://www.linkedin.com/in/gtellozambrano)
+## 🧠 Technical Stack
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on projects or discuss anything tech and cybersecurity-related.
+- ### **Programming & Scripting**  
+
+  Python, JavaScript, SQL, Bash, PowerShell, Kotlin  
+
+- ### **Security Platforms & Control Planes**
+  
+  Microsoft Sentinel, Entra ID / Azure AD, Splunk, Prisma/Cortex Cloud  
+  Wazuh, Shuffle SOAR, Trivy
+
+- ### **DevOps & Automation**  
+
+  Docker, Kubernetes, Terraform, GitHub Actions, CI/CD pipelines  
+
+- ### **Platforms & Systems**  
+
+  Windows, GNU/Linux, macOS, Android  
+  VMware, VirtualBox, Hyper-V, KVM  
+
+- ### **Compliance & Frameworks**  
+
+  ISO 27001, HIPAA, PCI DSS, NIST CSF  
+
+## 🛠️ What I Build
+
+- Security-first applications and internal tools  
+- Automated detection and response workflows  
+- Cloud environments designed for resilience and compliance  
+- AI-assisted systems that enhance decision-making and operations  
+
+## 🌍 Languages
+- Spanish (Native)  
+- English (C2 – Proficient)  
+- Portuguese (B1 – Intermediate)  
+
+## 📫 Contact
+- **Email:** gabrieltello10@hotmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/gtellozambrano
